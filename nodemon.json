@@ -1,0 +1,3 @@
+{
+  "ignore": ["anggadev", "node_modules", "database", "logs"]
+}
