@@ -82,10 +82,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nazedev/hitori.git"
+    "url": "git+https://github.com/angga-cell/angga-md.git"
   },
   "bugs": {
-    "url": "https://github.com/nazedev/hitori/issues"
+    "url": "https://github.com/angga-cell/angga-md/issues"
   },
-  "homepage": "https://github.com/nazedev/hitori#readme"
+  "homepage": "https://github.com/angga-cell/angga-md#readme"
 }
